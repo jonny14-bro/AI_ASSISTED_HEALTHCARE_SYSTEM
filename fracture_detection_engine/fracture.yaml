@@ -1,0 +1,7 @@
+path: D:/healthcare_assistant/fracture_detection_engine/datasets/fracture_yolo
+
+train: images/train
+val: images/val
+
+names:
+  0: fracture
